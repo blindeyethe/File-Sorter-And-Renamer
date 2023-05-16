@@ -32,7 +32,7 @@ Not only can you sort and rename files in your Unity project, but you can also a
 
 <img src="https://github.com/blindeyethe/File-Sorter-And-Renamer/assets/62220844/67f65d83-f71f-47dd-8393-60d806972acb" width="600">
 
- ### 2. Click on the File Sorter and Renamer/Directories tab
+ ### 3. Click on the File Sorter and Renamer/Directories tab
  
 - By pressing the Select Button, you can choose the folder in which the files should be placed based on their type.
  
